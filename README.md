@@ -37,7 +37,7 @@ CONSTRAINT coach_spec_pkey PRIMARY KEY (coach_id, speciality_id)
 );  
   
 Приложение протестировано с использованием сервера apache-tomcat-10.1.25  
-Необходимо прописать в hibernate.cfg.xml данные Вашей БДЖ url, username, password.  
+Необходимо прописать в hibernate.cfg.xml данные Вашей БД: url, username, password.  
   
 PS:   
 Все поля форм в браузере требуется заполнять.   
